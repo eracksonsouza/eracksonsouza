@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao perfil do Erackson Souza 😁
+## Graduando em Análise e Desenvolvimento de Sistemas, dedicando-me ao estudo de desenvolvimento web full stack. Possuo experiência com tecnologias como HTML, CSS, JavaScript e também versionamento de códigos usando o Git e o GitHub, tendo desenvolvido projetos que demonstram meu conhecimento nessas áreas.
+# Além disso, sou uma pessoa proativa, sempre em busca de novos desafios e oportunidades de aprendizado. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar objetivos em comum.
+# Meu objetivo na área de programação vai além do trabalho. Busco conectar-me com outras pessoas e ajudar, criando projetos que facilitem a vida  de várias pessoas.
 
  <div>
    <a href="https://github.com/eracksonsouza">
