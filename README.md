@@ -1,14 +1,14 @@
-## Olá, tudo bem? Eu sou o Erackson Souza 😁
-Graduando em Análise e Desenvolvimento de Sistemas, dedicando-me ao estudo de desenvolvimento web full stack. Possuo experiência com tecnologias como HTML, CSS, JavaScript e também versionamento de códigos usando o Git e o GitHub, tendo desenvolvido projetos que demonstram meu conhecimento nessas áreas.
-Além disso, sou uma pessoa proativa, sempre em busca de novos desafios e oportunidades de aprendizado. 
-### Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar objetivos em comum, 
-e meus objetivo na área de programação vai além do trabalho. Busco conectar-me com outras pessoas e ajudar, criando projetos que facilitem a vida de várias pessoas.
-### Entre em contato: 
-<div> 
-  <a href="https://instagram.com/eracksonsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:souza.erackson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erackson-souza-95b0b4282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+# Erackson Souza :man_technologist:
+
+## Olá, tudo bem? 
+
+### Graduando em Análise e Desenvolvimento de Sistemas, busquei formas de melhorar minha experiência no desenvolvimento web com foco inicialmente na parte front end, e iniciei meus estudos com foco nas tecnologias HTML, CSS e JAVASCRIPT.
+### Além disso, sou uma pessoa proativa, sempre em busca de novos desafios e oportunidades de aprendizado. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar objetivos em comum. Meu objetivo na área vai além do trabalho, busco me conectar-me com outras pessoas e ajudar a criar projetos que facilitem a vida de outras pessoas.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/eracksonsouza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/eracksonsouza/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584991153472&text=Olá!)](https://api.whatsapp.com/send?phone=5584991153472&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:souza.erackson@gmail.com)
 
 ### 🧰 Ferramentas e Técnologias:
 <div style="display: inline_block">
@@ -19,8 +19,6 @@ e meus objetivo na área de programação vai além do trabalho. Busco conectar-
 </div> 
 <br>
 
- <div>
-   <a href="https://github.com/eracksonsouza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eracksonsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eracksonsouza&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eracksonsouza&layout=compact&langs_count=6&theme=tokyonight"/>
+
+---
