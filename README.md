@@ -5,7 +5,6 @@
 ### Graduando em Análise e Desenvolvimento de Sistemas, busquei formas de melhorar minha experiência no desenvolvimento web com foco inicialmente na parte front end, e iniciei meus estudos com foco nas tecnologias HTML, CSS e JAVASCRIPT.
 ### Além disso, sou uma pessoa proativa, sempre em busca de novos desafios e oportunidades de aprendizado. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar objetivos em comum. Meu objetivo na área vai além do trabalho, busco me conectar-me com outras pessoas e ajudar a criar projetos que facilitem a vida de outras pessoas.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/eracksonsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/eracksonsouza/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584991153472&text=Olá!)](https://api.whatsapp.com/send?phone=5584991153472&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:souza.erackson@gmail.com)
