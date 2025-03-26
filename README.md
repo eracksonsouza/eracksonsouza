@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
+
 ###
 
 <h2 align="center">Últimos Projetos</h2>
@@ -78,7 +79,18 @@
 
 ###
 
-<h4 align="center">Onde me encontrar: (só clicar no ícone)</h4>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eracksonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eracksonsouza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eracksonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
+### ✍️ Citação Aleatória 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<h4 align="center">Onde me encontrar (só clicar no ícone)</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eracksonsouza" target="_blank">
@@ -100,3 +112,5 @@
 
 
 ###
+---
+
