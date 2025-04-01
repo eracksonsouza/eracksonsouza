@@ -1,7 +1,7 @@
 
 
 <div> 
-  <img width="auto" src="https://github.com/user-attachments/assets/d95e794e-82e2-47ee-9865-eb70aafd42fc"/>
+  <img width="auto" src="https://github.com/user-attachments/assets/0c820239-758f-492b-84ec-66d1b631ae0f" alt="Seja bem vindo (a) ao perfil do Erackson desenvolvedor web no Github"/>
 </div>
 
 ###
@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <h3 align="left">Sobre mim: </h3>
+  <h2 align="left">Sobre mim: </h2>
   <img height="250" src="https://github.com/user-attachments/assets/226f3dd0-a4f4-4c97-a1d2-097119ae447f" />
 </div>
 
