@@ -1,24 +1,29 @@
+
+
+<div> 
+  <img width="auto" src="https://github.com/user-attachments/assets/d95e794e-82e2-47ee-9865-eb70aafd42fc"/>
+</div>
+
+###
+
+
+<div>
+  <h3 align="center">Opa, tudo bem contigo? Prazer em ter você aqui no meu laboratório de tecnologia... digo, no meu GitHub! 😆</h3>
+</div>
+
+###
+
+---
+
 <div align="center">
+  <h3 align="left">Sobre mim: </h3>
   <img height="250" src="https://github.com/user-attachments/assets/226f3dd0-a4f4-4c97-a1d2-097119ae447f" />
 </div>
 
-
-###
-
-###
-
-
-###
-
-<h3 align="center">Opa, tudo bem contigo? Prazer em ter você aqui no meu laboratório de tecnologia... digo, no meu GitHub! 😆</h3>
-
-###
-
-<h3 align="left">Sobre mim</h3>
-
-###
-
-<p align="left">Meu nome é Erackson Souza, sou Desenvolvedor Web e atuo tanto no frontend, com JavaScript, TypeScript, React.js, além de frameworks como Vue.js e Tailwind CSS, quanto no backend, utilizando Node.js, Express.js, consumindo APIs REST e com conhecimento em bancos de dados, como PostgreSQL.<br><br>- 🔭 Monitor de Tecnologia na DevQuest;<br>- 📚 Atualmente faço Faculdade de Análise e Desenvolvimento de Sistemas;<br>-  No tempo livre desenvolvo uns projetos ai 👀</p>
+<p align="left">Meu nome é Erackson Souza, sou Desenvolvedor Web e <strong>atuo tanto no frontend, com JavaScript, TypeScript, React.js, além de frameworks como Vue.js e Tailwind CSS, quanto no backend, utilizando Node.js, Express.js, consumindo APIs REST e com conhecimento em bancos de dados, como PostgreSQL</strong>.<br><br>
+  - 👨‍💻 <strong> Monitor de Tecnologia </strong> na DevQuest;<br>
+  - 📚 Atualmente faço <strong> Faculdade de Análise e Desenvolvimento de Sistemas; </strong> <br>
+  -  No tempo livre desenvolvo uns projetos ai 👀</p>
 
 ###
 
@@ -90,7 +95,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h4 align="center">Onde me encontrar (só clicar no ícone)</h4>
+<h4 align="center">📬 Vamos conversar? Me encontre nas redes sociais abaixo:</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eracksonsouza" target="_blank">
