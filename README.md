@@ -44,48 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:30px;" />
 </p>
 
-
-
-###
-
-<h2 align="center">Últimos Projetos</h2>
-
-<div align="justify">
-  <ul>
-    <strong>
-      <a href="https://nei-market-analytics.vercel.app/">Nei Market Analytics</a> - Projeto realizado em parceria com um amigo, que consiste em realizar uma análise de mercado tanto financeiro quanto de criptomoedas.
-      <br>
-      <b>Habilidades:</b> Vue.js, TypeScript, Express, Vitest, Trabalho em equipe, Design Responsivo.
-    </strong>
-  </ul>
-  <ul>
-    <strong>
-      <a href="https://eracksont-05-api-the-movie.vercel.app/">The Movie API</a> - Consumo de uma API de filmes da IMDb, com a funcionalidade de listar filmes por categorias.
-      <br>
-      <b>Habilidades:</b> React.js, Axios, React Router, Componentização, Design Responsivo.
-    </strong>
-  </ul>
-  <ul>
-    <strong>
-      <a href="https://portfolio-erackson-souza.vercel.app/">Meu Portfólio</a> - Projeto pessoal que consiste no desenvolvimento do meu portfólio online.
-      <br>
-      <b>Habilidades:</b> Vue.js, JavaScript, Tailwind CSS, Design Responsivo.
-    </strong>
-  </ul>
-</div>
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eracksonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eracksonsouza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eracksonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <h4 align="center">📬 Vamos conversar? Me encontre nas redes sociais abaixo:</h4>
 
 <div align="center">
